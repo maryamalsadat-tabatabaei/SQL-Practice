@@ -1,2 +1,2 @@
 # SQL-Practice
-Solve Real-World Data Problems in SQL.
+This repository contains SQL scripts and queries for analyzing and manipulating data in various ways. The project covers a range of practical SQL use cases, including Common Table Expressions (CTEs), data transformation using CASE statements, combining data from multiple sources with UNION, handling hierarchical data with self-joins, and solving advanced problems with window functions.
